@@ -1,6 +1,5 @@
 # Purpose:
-> [The purpose of this Standard Operating Procedure (SOP) is to define the process and requirements for managing the OS version control in the organization, ensuring that systems are updated, secure, and functioning efficiently.] This SOP will focus on utilizing Windows Server Update Services (WSUS) for managing updates and version control for Windows-based operating systems.
-> [The purpose or rational for the procedure. If there are policies or standards which this procedure exists to meet, reference them here.]
+> [The purpose of this Standard Operating Procedure (SOP) is to define the process and requirements for managing the OS version control in the organization, ensuring that systems are updated, secure, and functioning efficiently.This SOP will focus on utilizing Windows Server Update Services (WSUS) for managing updates and version control for Windows-based operating systems.]
 
 This document will answer the question "How will you write and organize your SOPs?" while also serving as an example of the format.
 
