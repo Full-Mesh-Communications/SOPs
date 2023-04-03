@@ -8,4 +8,3 @@
 
 + How will network account needs be handled for employees being onboarded?
 
-[Handling Technology Needs for Onboarding Employee](https://github.com/Full-Mesh-Communications/SOPs/blob/main/Handling%20Technology%20for%20Onboarding.md)
