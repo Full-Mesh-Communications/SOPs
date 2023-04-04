@@ -67,7 +67,7 @@
 
 ## 6.0 References:
 
-- [Microsoft Windows Server Update Services (WSUS) Documentation](https://www.thinkhdi.com/library/supportworld/2017/you-want-to-write-an-sop.aspx](https://docs.microsoft.com/en-us/windows-server/administration/windows-server-update-services/get-started/windows-server-update-services-wsus)
+- [Microsoft Windows Server Update Services (WSUS) Documentation](https://docs.microsoft.com/en-us/windows-server/administration/windows-server-update-services/get-started/windows-server-update-services-wsus)
 - [37 Best Standard Operating Procedure (SOP) Templates](https://templatelab.com/sop-templates/)
 
 ## 6.1 Definitions:
