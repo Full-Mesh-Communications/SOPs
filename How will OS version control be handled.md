@@ -1,11 +1,11 @@
-## 1. Purpose:
+## 1.0 Purpose:
 > [The purpose of this Standard Operating Procedure (SOP) is to define the process and requirements for managing the OS version control in the organization, ensuring that systems are updated, secure, and functioning efficiently.This SOP will focus on utilizing Windows Server Update Services (WSUS) for managing updates and version control for Windows-based operating systems.]
 
-## 2. Scope:
+## 2.0 Scope:
 
 > [This SOP applies to all IT personnel responsible for managing, updating, and monitoring Windows-based operating systems in the organization, including servers, workstations, and other network devices.]
 
-## 3. Responsibilities:
+## 3.0 Responsibilities:
 
 ### 3.1. IT Manager
      
