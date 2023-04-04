@@ -6,5 +6,4 @@
 
 ### An SOP or Standard Operating Procedure is a set of detailed step-by-step instructions that describe how to carry out any given process. Below you will see a list of some common issues presented in the IT field.
 
-+ How will network account needs be handled for employees being onboarded?
 
