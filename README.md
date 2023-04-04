@@ -3,8 +3,12 @@
 
 - How will network account needs be handled for employees being onboarded?
 
+  [Onboard SOP](https://github.com/Full-Mesh/SOPs/blob/main/Onboard%20SOP.md)
+  
 - How will network account needs be handled for employees being terminated?
-
+  
+  [Account Termination SOP](https://github.com/Full-Mesh/SOPs/blob/main/Account%20Termination%20SOP.md)
+  
 - How will OS version control be handled?
 
   [How will OS version control be handled](https://github.com/Full-Mesh/SOPs/blob/main/How%20will%20OS%20version%20control%20be%20handled.md)
