@@ -40,7 +40,7 @@
 
 > [Collaboration with relevant stakeholders, such as IT managers, system administrators, and security officers, to ensure comprehensive and effective OS version control procedures.]
 
-## 5.0   Procedures
+## 5.0 Procedures
 
 ### 5.1. Setting up WSUS Infrastructure
 
