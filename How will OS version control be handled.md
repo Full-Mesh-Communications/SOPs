@@ -18,7 +18,7 @@
 - Schedule, test, and deploy updates and patches.
 - Monitor and report on the status of OS version control.
 
-## Prerequisites:
+## 4.0   Prerequisites:
 
 > [Knowledge and understanding of the organization's IT infrastructure, systems, and security requirements.]
 
@@ -40,43 +40,43 @@
 
 > [Collaboration with relevant stakeholders, such as IT managers, system administrators, and security officers, to ensure comprehensive and effective OS version control procedures.]
 
-## Procedures
+## 5.0   Procedures
 
-### 4.1. Setting up WSUS Infrastructure
+### 5.1. Setting up WSUS Infrastructure
 
-### 4.1.1. Install and configure the WSUS server following the organization's infrastructure and security requirements.
+### 5.1.1. Install and configure the WSUS server following the organization's infrastructure and security requirements.
 
-### 4.1.2. Configure the WSUS server to synchronize with Microsoft Update, specifying the products, classifications, and languages to be updated.
+### 5.1.2. Configure the WSUS server to synchronize with Microsoft Update, specifying the products, classifications, and languages to be updated.
 
-### 4.1.3. Set up the WSUS client settings via Group Policy, ensuring all Windows-based devices are configured to receive updates from the WSUS server.
+### 5.1.3. Set up the WSUS client settings via Group Policy, ensuring all Windows-based devices are configured to receive updates from the WSUS server.
 
-### 4.2. Update Management
+### 5.2. Update Management
 
-### 4.2.1. Regularly synchronize the WSUS server with Microsoft Update to obtain the latest updates and patches.
+### 5.2.1. Regularly synchronize the WSUS server with Microsoft Update to obtain the latest updates and patches.
 
-### 4.2.2. Review and approve updates based on the organization's requirements, prioritizing security patches and critical updates.
+### 5.2.2. Review and approve updates based on the organization's requirements, prioritizing security patches and critical updates.
 
-### 4.2.3. Create and configure computer groups in WSUS to manage the deployment of updates to different systems, such as test and production environments.
+### 5.2.3. Create and configure computer groups in WSUS to manage the deployment of updates to different systems, such as test and production environments.
 
-### 4.2.4. Test updates on non-critical systems or a designated test environment before deploying them to production systems.
+### 5.2.4. Test updates on non-critical systems or a designated test environment before deploying them to production systems.
 
-### 4.2.5. Schedule the deployment of approved updates during maintenance windows to minimize disruption to the organization's operations.
+### 5.2.5. Schedule the deployment of approved updates during maintenance windows to minimize disruption to the organization's operations.
 
-### 4.2.6. Monitor the deployment of updates and troubleshoot any issues that may arise during the update process.
+### 5.2.6. Monitor the deployment of updates and troubleshoot any issues that may arise during the update process.
 
 
-## References:
+## 6.0 References:
 
 - [Microsoft Windows Server Update Services (WSUS) Documentation](https://www.thinkhdi.com/library/supportworld/2017/you-want-to-write-an-sop.aspx](https://docs.microsoft.com/en-us/windows-server/administration/windows-server-update-services/get-started/windows-server-update-services-wsus)
 - [37 Best Standard Operating Procedure (SOP) Templates](https://templatelab.com/sop-templates/)
 
-## Definitions:
+## 6.1 Definitions:
 
 - Policy -- refers to a set of rules or guidelines that are implemented to govern how a particular system or application behaves or operates
 - SOP -- Standard Operating Procedure
 - Infrastructure -- is the foundation or framework that supports a system or organization
 - WSUS -- Windows Server Update Services
 
-## Revision History:
+## 6.2 Revision History:
 
 04/04/2023 -- "How will OS version control be handled.md" created by Ademola Olatunbosun
