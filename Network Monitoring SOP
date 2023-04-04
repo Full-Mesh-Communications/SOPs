@@ -1,0 +1,40 @@
+# Network Account Termination SOP
+
+## Purpose
+To provide guidance and structure for how network accounts for terminated employees will be handled.
+
+## Scope
+This SOP applies to all members of the organization who are responsible for monitoring the network traffic. 
+
+## Responsibilities
+Employee is responsible for following this SOP when monitoring network traffic. 
+
+## Prerequisites
+- A clear understanding of the process for network monitoring.
+- Access to the machine that is running WireShark.
+- Knowledge of the network topology.
+
+## Procedure
+This SOP outlines the steps to be followed to ensure proper monitoring of the network.
+
+### Overview
+Employee will be given proper authorization and access to the endpoint running Wireshark.
+
+### Steps
+1. Open the program and choose a network interface: Select the network interface that you want to monitor. This can be your wireless or wired network adapter.
+2. Start capturing traffic: Once you've selected the interface, click on the "Start" button to begin capturing traffic.
+3. Filter the traffic: Wireshark captures all traffic on the selected interface, so you'll need to filter the traffic to focus on what you want to see. You can use various filters to narrow down the traffic, such as IP addresses, protocols, or ports.
+4. Analyze the captured traffic: Wireshark captures all network traffic as it flows through the interface, so you can analyze it in real-time or later. You can view individual packets, drill down to examine protocols and headers, and look for patterns or anomalies in the traffic.
+5. Save or export the results: Once you've captured and analyzed the traffic, you can save the results for future reference or share them with others. You can save the results as a Wireshark capture file or export them in various formats, such as CSV, HTML, or PDF.
+
+## References
+- [How to use Wireshark](https://www.varonis.com/blog/how-to-use-wireshark)
+- This SOP
+- Any in house proceedures developed after use of Wireshark, to be linked in this SOP. 
+
+## Definitions`
+- Wireshark: Wireshark is a free and open-source packet analyzer. It is used for network troubleshooting, analysis, software and communications protocol development, and education.
+- Monitoring Network Traffic: the method of studying the incoming and outgoing traffic on a computer network via specialized hardware and/or software.
+
+## Revision History:
+- 4/4/23 "Network Monitoring SOP" - created by Spencer Mitchell
