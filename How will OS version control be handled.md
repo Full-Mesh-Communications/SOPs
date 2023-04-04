@@ -67,18 +67,16 @@
 
 ## References:
 
-
-
 - [Microsoft Windows Server Update Services (WSUS) Documentation](https://www.thinkhdi.com/library/supportworld/2017/you-want-to-write-an-sop.aspx](https://docs.microsoft.com/en-us/windows-server/administration/windows-server-update-services/get-started/windows-server-update-services-wsus)
 - [37 Best Standard Operating Procedure (SOP) Templates](https://templatelab.com/sop-templates/)
+
 ## Definitions:
 
-> [What words are used throughout this document and procedure which have specific meanings that must be respected.]
-
-- Policy -- "why?"; broad, overarching guidance
-- SOP -- "what, when, why"; could be multiple SOPs to support a specific policy
-- Work Instructions -- "how"; in-depth, step-by-step directions for a particular task
+- Policy -- refers to a set of rules or guidelines that are implemented to govern how a particular system or application behaves or operates
+- SOP -- Standard Operating Procedure
+- Infrastructure -- is the foundation or framework that supports a system or organization
+- WSUS -- Windows Server Update Services
 
 ## Revision History:
 
-2/12/2021 -- "SOP_Template.md" created by Ethan Denny
+04/04/2023 -- "How will OS version control be handled.md" created by Ademola Olatunbosun
