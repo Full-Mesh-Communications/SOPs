@@ -17,7 +17,7 @@
 
 - How will you monitor network traffic?
 
-  [Network Monitoring SOP](https://github.com/Full-Mesh/SOPs/blob/main/Network%20Monitoring%20SOP.md)
+  [5. Network Monitoring SOP](https://github.com/Full-Mesh/SOPs/blob/main/5.%20Network%20Monitoring%20SOP.md)
 
 - How will you manage change to the network (such as hardware, software, or configuration changes) while minimizing network disruptions and downtime?
 
